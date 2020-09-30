@@ -13,7 +13,4 @@ int main() {
         }
         printf("\n");
     }
-    int c;
-    scanf("%d", &c);  // gets user input scanf("type", &variable)
-    printf("%d", c);
 }
